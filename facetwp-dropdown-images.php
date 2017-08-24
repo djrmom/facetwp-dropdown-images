@@ -98,4 +98,4 @@ class FacetWP_Dropdown_Images {
 	}
 }
 
-new FacetWP_Dropdown_images();
+new FacetWP_Dropdown_Images();
